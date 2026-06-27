@@ -96,7 +96,7 @@
   - type: ZombieImmune
   - type: Vocal
     wilhelm: "/Audio/_Goobstation/Voice/badtothebone.ogg" # Goobstation
-    wilhelmProbability: 0.1 # Goobstation
+    wilhelmProbability: 0.05 # Lesotho chance change
     sounds:
       Male: Skeleton
       Female: Skeleton
