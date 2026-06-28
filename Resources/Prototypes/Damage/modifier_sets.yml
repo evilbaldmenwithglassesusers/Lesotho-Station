@@ -288,10 +288,13 @@
   ignoreArmorPierceFlags: All # Goobstation
 
 # immune to everything except physical and heat damage
-# Goob edit
+# Lesotho Edit
 - type: damageModifierSet
   id: Skeleton
   coefficients:
+    Blunt: 1.23
+    Slash: 1.2
+    Piercing: 1.2
     Cold: 0.0
     Poison: 0.0
     Radiation: 0.0
