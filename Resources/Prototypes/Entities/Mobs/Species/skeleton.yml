@@ -76,8 +76,8 @@
   - type: MobThresholds
     thresholds:
       0: Alive
-      120: Critical
-      130: Dead
+      105: Critical
+      120: Dead
   - type: TransferMindOnGib
   - type: Destructible
     thresholds:
